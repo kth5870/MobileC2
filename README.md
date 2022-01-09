@@ -1,2 +1,2 @@
 # MobileC2
-Mobile C2
+Android Application Command and Control Server 
